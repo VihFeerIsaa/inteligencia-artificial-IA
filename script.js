@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "No seu dia a dia depois de fazer ssua coisas você prefere o que?",
         alternativas: [
             {
-                texto: "Ficar de boa aproveitar o tempo livre para ler, estudar, escrever, etc",
-                afirmacao: "Fica concentrado sozinho"
+                texto: "Fazer nada",
+                afirmacao: "Ficar sem fazer nada é bom as vezes"
             },
             {
-                texto: "Aproveita para fazer algo junto com a família ou amigos",
-                afirmacao: "Gosta de estar com alguém junto"
+                texto: "Fazer alguma coisa",
+                afirmacao: "Ficar de boa aproveitar o tempo livre para ler, estudar, escrever, etc"
             }
         ]
     },
@@ -35,12 +35,12 @@ const perguntas = [
         enunciado: "Você gosta de praticar algum esporte?",
         alternativas: [
             {
-                texto: "Futebol, vôlei",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Esporte",
+                afirmacao: "Futebol, vôlei, basquete entre outro"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Exercícios ao ar livre",
+                afirmacao: "Correr, andar de bicicleta, se exercitar, etc"
             }
         ]
     },
